@@ -1,3 +1,7 @@
+
+![CRUD PHP USER DATABASE](https://github.com/user-attachments/assets/5cc1b56b-cda9-48bd-b858-11262e5f5d68)
+
+
 # CRUD USER DATABASE APP
 A simple app demonstrating CRUD (Create, Read, Update, Delete) operations using PHP and MYSQL.
 
